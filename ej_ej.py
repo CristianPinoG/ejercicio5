@@ -34,3 +34,4 @@ if len(notas_validas) > 0:
 else:
     print("No hay notas válidas para calcular el promedio.")
 
+#esto esta bueno no se si chao
